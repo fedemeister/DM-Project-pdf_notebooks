@@ -1,6 +1,6 @@
 # DM-Project-pdf_notebooks
 Our first little Data Mining project on Politechnika Gdanska. Notebooks are in Spanish but the documents are in English.\
-**PART I - PROBLEM UNDERSTANDING AND DATA UNDERSTANDING INDEX**
+**PART I - PROBLEM UNDERSTANDING AND DATA UNDERSTANDING**
 ```
 Introduction: page 1
 Description of our dataset: page 1
@@ -29,7 +29,7 @@ Appendix I - Python's code used: page 20
   Identify your data distribution with chi-square method: page 21
   ```
   
-**PART II - DATA PREPARATION AND MODELING INDEX**
+**PART II - DATA PREPARATION AND MODELING**
 ```
 Introduction: page 1
 A short description of the dataset: page 1
